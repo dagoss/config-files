@@ -20,6 +20,8 @@ Plugin 'plasticboy/vim-markdown'
 Plugin 'reedes/vim-pencil'
 Plugin 'tpope/vim-surround'
 Plugin 'aperezdc/vim-template'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'dag/vim-fish'
 Plugin 'dagoss/vim-pug'
 call vundle#end()            " required
 filetype plugin indent on    " required
